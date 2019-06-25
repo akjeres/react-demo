@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.34de6062.chunk.css",
-    "main.js": "/static/js/main.9b65d92f.chunk.js",
-    "main.js.map": "/static/js/main.9b65d92f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b9839dee.chunk.js": "/static/js/2.b9839dee.chunk.js",
-    "static/js/2.b9839dee.chunk.js.map": "/static/js/2.b9839dee.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d66d962ff1a29daa74d13e3b1ccdaafa.js": "/precache-manifest.d66d962ff1a29daa74d13e3b1ccdaafa.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/static/css/main.34de6062.chunk.css.map",
-    "static/media/hotdog.svg": "/static/media/hotdog.de492fd6.svg",
-    "static/media/instagram.svg": "/static/media/instagram.e8c3b346.svg"
+    "main.js": "/react-demo/static/js/main.54806962.chunk.js",
+    "main.js.map": "/react-demo/static/js/main.54806962.chunk.js.map",
+    "runtime~main.js": "/react-demo/static/js/runtime~main.3dcdfef1.js",
+    "runtime~main.js.map": "/react-demo/static/js/runtime~main.3dcdfef1.js.map",
+    "static/js/2.dd29dd03.chunk.js": "/react-demo/static/js/2.dd29dd03.chunk.js",
+    "static/js/2.dd29dd03.chunk.js.map": "/react-demo/static/js/2.dd29dd03.chunk.js.map",
+    "index.html": "/react-demo/index.html",
+    "precache-manifest.5138ff14e62e1b8255fdce5ac933092e.js": "/react-demo/precache-manifest.5138ff14e62e1b8255fdce5ac933092e.js",
+    "service-worker.js": "/react-demo/service-worker.js",
+    "static/media/hotdog.svg": "/react-demo/static/media/hotdog.de492fd6.svg",
+    "static/media/instagram.svg": "/react-demo/static/media/instagram.e8c3b346.svg"
   }
 }
